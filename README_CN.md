@@ -3,7 +3,10 @@
 </p>
 
 <h1 align="center">🍌 Edit Banana</h1>
-<h3 align="center">通用内容重编缉器：让不可编辑变为可编辑</h3>
+<p align="center">
+  中文 | <a href="README.md">English</a>
+</p>
+<h3 align="center">全场景内容重构器：让“不可编辑”成为过去式</h3>
 
 <p align="center">
 打破静态格式的边界。让原本固定的内容，摇身一变为可灵活编辑的数字化资产。

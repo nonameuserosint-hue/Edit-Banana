@@ -3,6 +3,9 @@
 </p>
 
 <h1 align="center">🍌 Edit Banana</h1>
+<p align="center">
+  <a href="README_CN.md">中文</a> | English
+</p>
 <h3 align="center">Universal Content Re-Editor: Make the Uneditable, Editable</h3>
 
 <p align="center">
