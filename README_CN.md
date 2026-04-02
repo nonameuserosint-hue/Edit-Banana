@@ -4,7 +4,7 @@
 
 <h1 align="center">🍌 Edit Banana</h1>
 <p align="center">
-  中文 | <a href="readme.md">English</a>
+  中文 | <a href="README.md">English</a>
 </p>
 <h3 align="center">全场景内容重构器：让“不可编辑”成为过去式</h3>
 
