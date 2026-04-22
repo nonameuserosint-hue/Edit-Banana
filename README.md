@@ -25,13 +25,13 @@ Powered by SAM 3 and multimodal large models, it enables high-fidelity reconstru
 
 <h3 align="center">Try It Now!</h3>
 <p align="center">
-  <a href="https://editbanana.anxin6.cn/">
-    <img src="https://img.shields.io/badge/🚀%20Try%20Online%20Demo-editbanana.anxin6.cn-FF6B6B?style=for-the-badge&logoColor=white" alt="Try Online Demo"/>
+  <a href="https://www.editbanana.net/">
+    <img src="https://img.shields.io/badge/🚀%20Try%20Online%20Demo-www.editbanana.net-FF6B6B?style=for-the-badge&logoColor=white" alt="Try Online Demo"/>
   </a>
 </p>
 
 <p align="center">
-  👆 <b>Click above or https://editbanana.anxin6.cn/ to try Edit Banana online!</b> Upload an image to get <b>editable DrawIO (XML)</b> in seconds. 
+  👆 <b>Click above or https://www.editbanana.net/ to try Edit Banana online!</b> Upload an image to get <b>editable DrawIO (XML)</b> in seconds. 
 </p>
 
 > [!WARNING]

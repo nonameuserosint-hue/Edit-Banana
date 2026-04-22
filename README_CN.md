@@ -25,13 +25,13 @@
 
 <h3 align="center">立即体验！</h3>
 <p align="center">
-  <a href="https://editbanana.anxin6.cn/">
-    <img src="https://img.shields.io/badge/🚀%20在线体验-editbanana.anxin6.cn-FF6B6B?style=for-the-badge&logoColor=white" alt="Try Online Demo"/>
+  <a href="https://www.editbanana.net/">
+    <img src="https://img.shields.io/badge/🚀%20在线体验-www.editbanana.net-FF6B6B?style=for-the-badge&logoColor=white" alt="Try Online Demo"/>
   </a>
 </p>
 
 <p align="center">
-  👆 <b>点击上方或访问 https://editbanana.anxin6.cn/ 在线体验 Edit Banana！</b> 上传图片，几秒钟即可获得<b>可编辑的 DrawIO (XML) 文件</b>
+  👆 <b>点击上方或访问 https://www.editbanana.net/ 在线体验 Edit Banana！</b> 上传图片，几秒钟即可获得<b>可编辑的 DrawIO (XML) 文件</b>
 </p>
 
 > [!WARNING]
