@@ -355,35 +355,7 @@ Feature Suggestions: [Discussions](https://github.com/BIT-DataLab/Edit-Banana/di
 
 ---
 
-## 🤩 Contributors
 
-Thanks to all developers who have contributed to the project and promoted its iteration!
-
-<details>
-<summary><b>View Contributors List</b></summary>
-
-| Name/ID | Email |
-|---------|-------|
-| Chai Chengliang | ccl@bit.edu.cn |
-| Zhang Chi | zc315@bit.edu.cn |
-| Deng Qiyan |  |
-| Rao Sijing |  |
-| Yi Xiangjian |  |
-| Li Jianhui |  |
-| Shen Chaoyuan |  |
-| Zhang Junkai |  |
-| Han Junyi |  |
-| You Zirui |  |
-| Xu Haochen |  |
-| An Minghao |  |
-| Yu Mingjie |  |
-| Yu Xinjiang|  |
-| Chen Zhuofan|  |
-| Li Xiangkun|  |
-
-</details>
-
----
 
 ## 📄 License
 
